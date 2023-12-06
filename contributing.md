@@ -10,9 +10,6 @@ Sort: 2
 无需登录，通过 `github` 向我们贡献你的智慧！  
 
 * todo
-* todo
-* todo
-* todo
   
 <!-- Want to report a bug, request a feature, contribute or translate Raneto?  
 At the moment most things can be contributed via the main [Raneto GitHub repository](https://github.com/ryanlelek/Raneto).
